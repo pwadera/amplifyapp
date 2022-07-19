@@ -1,0 +1,14 @@
+{
+  "resourceName": "noteappimagebucket",
+  "policyUUID": "5227859e",
+  "bucketName": "noteappimagebucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
